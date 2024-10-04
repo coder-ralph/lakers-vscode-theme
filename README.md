@@ -13,9 +13,12 @@ The Los Angeles Lakers VS Code Theme brings the iconic colors of the Lakers to y
 ## Installation
 
 1. Open Visual Studio Code.
-2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
-3. Search for "Los Angeles Lakers Theme".
-4. Click on the Install button.
+2. Install the theme via npm by running the following command in your terminal:
+
+``npm i lakers-vscode-theme``
+
+3. After the installation, go to File > Preferences > Color Theme.
+4. Select Los Angeles Lakers Theme from the list.
 
 ## Usage
 
